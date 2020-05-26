@@ -1,0 +1,6 @@
+
+The book carrying the ID number: 9 was borrowed for the member with the ID number:1 In the history of: 2020-05-23
+A member with data has been added ID: 123456789 Name: hamza Mobile: 2666 Email: xcdpkdovl In the history of: 2020-05-26
+A data owner's book has been added ID: 1234567890 Title: sowo Author: eeee Publisher: 2020-05-20 In the history of: 2020-05-26
+The book carrying the ID number: 1234567890 was borrowed for the member with the ID number:123456789 In the history of: 2020-05-26The process of returning a book with an ID number 4 has been completed In the history of: 2020-05-26
+The book ID number 1234567890 has been deleted In the history of: 2020-05-26

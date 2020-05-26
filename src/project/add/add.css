@@ -1,0 +1,12 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.jfx-button{
+    -fx-background-color:#3F51B5;
+    -fx-background-radius: 0px;
+}
+.date{
+  -fx-font-size:16px; 
+
+}
